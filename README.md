@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repo](https://github.com/AmmarCode/social-media-dashboard-with-theme-switcher)
+- Live Site URL: [Live](https://ammarcode.github.io/social-media-dashboard-with-theme-switcher/)
 
 ## My process
 
